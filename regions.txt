@@ -10,12 +10,12 @@
 Астраханская обл.:Astrakhan obl
 Республика Башкортостан:Bashkortostan
 Белгородская обл.:Belgorod obl
-Брянская обл.:Bryabsk obl
+Брянская обл.:Bryansk obl
 Республика Бурятия:Buryatia
 Республика Чеченская:Chechen r
 Чеченская Республика:Chechen r
-Челябинская обл.:Chelyabins obl
-Челябинская область:Chelyabins obl
+Челябинская обл.:Chelyabinsk obl
+Челябинская область:Chelyabinsk obl
 Чукотский АО:Chukot ao
 Чувашская Республика:Chuvashia
 Чувашская Республика - Чувашия:Chuvashia
@@ -50,7 +50,7 @@
 Курская обл.:Kursk obl
 Липецкая обл.:Lipetsk obl
 Магаданская обл.:Magadan obl
-Республика Марий Эл:Matiy El
+Республика Марий Эл:Mariy El
 Республика Мордовия:Mordovia
 г. Москва и Московская область:Moskva and obl
 г. Москва * Московская область:Moskva and obl
@@ -66,7 +66,7 @@
 Орловская обл.:Oryol obl
 Пензенская обл.:Penza obl
 Пермский край:Perm obl
-Приморский край:Primorsk obl
+Приморский край:Primor obl
 г. Псков|Псковская обл.:Pskov
 Псковская обл.:Pskov obl
 Ростовская обл.:Rostov obl
@@ -91,8 +91,8 @@
 Свердловская область:Sverdlovsk obl
 Тамбовская обл.:Tambov obl
 Республика Татарстан:Tatarstan
-Томская обл.:Tom obl
-Томская область:Tom obl
+Томская обл.:Tomsk obl
+Томская область:Tomsk obl
 Тульская обл.:Tula obl
 Тверская обл.:Tver obl
 Тюменская обл.:Tyumen obl
@@ -111,4 +111,4 @@
 Ярославская обл.:Yaroslav obl
 Ханты-Мансийский АО - Югра:Yugra
 Ханты - Мансийский - Югра АО:Yugra
-Забайкальский край:Zabaykalsky kr
+Забайкальский край:Zabaykal kr
