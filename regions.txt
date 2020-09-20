@@ -1,0 +1,114 @@
+Абзелиловский район * Белорецкий район|Абзелиловский район * Белорецкий район:Abzelil and Beloretsk rns
+Республика Адыгея:Adygeya
+Республика Северная Осетия - Алания:Alania
+Алтайский край:Altay kr
+Республика Алтай:Altay r
+Амурская обл.:Amur obl
+Архангельская обл.:Arkhangelsk obl
+Архангельская область и Ненецкий автономный округ:Arkhangelsk obl and Nenets ao
+Архангельская область * Ненецкий автономный округ:Arkhangelsk obl and Nenets ao
+Астраханская обл.:Astrakhan obl
+Республика Башкортостан:Bashkortostan
+Белгородская обл.:Belgorod obl
+Брянская обл.:Bryabsk obl
+Республика Бурятия:Buryatia
+Республика Чеченская:Chechen r
+Чеченская Республика:Chechen r
+Челябинская обл.:Chelyabins obl
+Челябинская область:Chelyabins obl
+Чукотский АО:Chukot ao
+Чувашская Республика:Chuvashia
+Чувашская Республика - Чувашия:Chuvashia
+Республика Дагестан:Dagestan
+Еврейская автономная обл.:Evrey ao
+Республика Ингушетия:Ingushetia
+Иркутская обл.:Irkut obl
+Иркутская область:Irkut obl
+Ивановская обл.:Ivanov obl
+Калининградская обл.:Kaliningrad obl
+Республика Калмыкия:Kalmykia
+Калужская обл.:Kaluga obl
+Камчатский край:Kamchatka kr
+Республика Карелия:Karelia
+Кабардино-Балкарская Республика:KBr
+Республика Кабардино-Балкарская:KBr
+Карачаево-Черкесская Республика:KChr
+Республика Карачаево-Черкесская:KChr
+Кемеровская обл.:Kemerovo obl
+Хабаровский край:Khabarovsk kr
+Республика Хакасия:Khakasia
+Кировская обл.:Kirov obl
+Республика Коми:Komi
+Корякский округ|Камчатский край:Koryak okr
+Костромская обл.:Kostroma obl
+Краснодарский край:Krasnodar kr
+Красноярский край:Krasnoyarsk kr
+Республика Крым:Krym
+Республика Крым * г. Севастополь:Krym and Sevastopol
+Республика Крым и г. Севастополь:Krym and Sevastopol
+Курганская обл.:Kurgan obl
+Курская обл.:Kursk obl
+Липецкая обл.:Lipetsk obl
+Магаданская обл.:Magadan obl
+Республика Марий Эл:Matiy El
+Республика Мордовия:Mordovia
+г. Москва и Московская область:Moskva and obl
+г. Москва * Московская область:Moskva and obl
+Московская область * Москва|Московская область * Москва:Moskva and obl
+Мурманская обл.:Murmansk obl
+Ненецкий АО:Nenets ao
+Нижегородская обл.:Nizhny Novgorod obl
+г. Норильск|Красноярский край:Norilsk
+Новгородская обл.:Novgorod obl
+Новосибирская обл.:Novosibirsk obl
+Омская обл.:Omsk obl
+Оренбургская обл.:Orenburg obl
+Орловская обл.:Oryol obl
+Пензенская обл.:Penza obl
+Пермский край:Perm obl
+Приморский край:Primorsk obl
+г. Псков|Псковская обл.:Pskov
+Псковская обл.:Pskov obl
+Ростовская обл.:Rostov obl
+Ростовская область:Rostov obl
+Российская Федерация:Russia
+Рязанская обл.:Ryazan obl
+Республика Саха /Якутия/:Sakha
+Сахалинская обл.:Sakhalin obl
+Самарская обл.:Samara obl
+Самарская область:Samara obl
+Саратовская обл.:Saratov obl
+г. Севастополь:Sevastopol
+Смоленская обл.:Smolensk obl
+Смоленская область:Smolensk obl
+г. Сочи|Краснодарский край:Sochi
+г. Санкт - Петербург и Ленинградская область:SPb and obl
+г. Санкт-Петербург и Ленинградская область:SPb and obl
+г. Санкт-Петербург * Ленинградская область:SPb and obl
+Ставропольский край:Stavropol obl
+Сургутский район * г. Сургут:Surgut
+Свердловская обл.:Sverdlovsk obl
+Свердловская область:Sverdlovsk obl
+Тамбовская обл.:Tambov obl
+Республика Татарстан:Tatarstan
+Томская обл.:Tom obl
+Томская область:Tom obl
+Тульская обл.:Tula obl
+Тверская обл.:Tver obl
+Тюменская обл.:Tyumen obl
+Тюменская область:Tyumen obl
+Республика Тыва:Tyva
+Республика Удмуртская:Udmurtia
+Удмуртская Республика:Udmurtia
+Ульяновская обл.:Ulyanovsk obl
+Владимирская обл.:Vladimir obl
+Волгоградская обл.:Volgograd obl
+Волгоградская область:Volgograd obl
+Вологодская обл.:Vologda obl
+Воронежская обл.:Voronezh obl
+Воронежская область:Voronezh obl
+Ямало-Ненецкий АО:Yamal-Nenets ao
+Ярославская обл.:Yaroslav obl
+Ханты-Мансийский АО - Югра:Yugra
+Ханты - Мансийский - Югра АО:Yugra
+Забайкальский край:Zabaykalsky kr

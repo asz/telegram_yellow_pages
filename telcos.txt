@@ -1,0 +1,85 @@
+ЗАО "АКОС":AKOS
+ООО "Антарес":Antares
+АО "АПЕКС":APEKS
+ООО "Арктур":Arctur
+ООО "Астран":Astran
+ОАО "АСВТ":ASVT
+ООО "Аврора Телеком":Aurora Telecom
+ПАО "Вымпел-Коммуникации":Beeline
+ООО "Белитон":Beliton
+ООО "БИТ-ЦЕНТР":BIT-CENTRE
+ООО "Центр 2М":Centre
+АО "КантриКом":CountryCom
+ООО "ДЭНИ КОЛЛ":DANY CALL
+ООО "Цифра Один":Digit One
+ООО "ЕКАТЕРИНБУРГ-2000":EKATERINBURG-2000
+ООО "ЭКО Нетворкс":EKO Networks
+ООО "Газпром телеком":Gazprom telecom
+АО "ГлобалТел":GlobalTel
+ООО "Глобал Телеком":Global Telecom
+АО "ГЛОНАСС":GLONASS
+ЗАО "Джи Ти Эн Ти":GTNT
+ООО "Интеграл":Integral
+ООО "Интернод":Internod
+ЗАО "Интерсвязь-2":Intersvyaz-2
+ООО "Иридиум Коммьюникешенс":Iridium Communications
+Акционерное общество "Крымтелеком":Krymtelecom
+ООО "К-телеком":K-telecom
+ООО "КТК ТЕЛЕКОМ":KTK TELECOM
+ООО "Лардекс":Lardeks
+ООО "Лайкамобайл":Laykamobile
+ООО "Элемтэ-Инвест":LMT-Invest
+ООО "МАТРИКС телеком":MATRIX telecom
+ООО "Медиа-Маркет":Media-Market
+ПАО "МегаФон":Megafon
+ООО "Метро-пэй":Metro-pay
+ПАО "МГТС":MGTS
+ООО "МиАТел":MiATEL
+ФГУП "Морсвязьспутник":Morsvyazsputnik
+ООО "МОСТЕЛЕКОМ":MOSTELECOM
+ООО "МСН Телеком":MSN Telecom
+ПАО "Мобильные ТелеСистемы":MTS
+ОАО "МТТ":MTT
+ООО "НЦИ":NCI
+ООО "Нэт Бай Нэт Холдинг":Net By Bet
+ООО "Новые мобильные коммуникации":New Mobile Communications
+ООО "ОБИТ":OBIT
+ООО "Оранж Бизнес Сервисез":Orange Business Services
+ООО "ПИН":PIN
+ООО "Квантек":Quantech
+ООО "КватроПлюс":QuatroPlus
+ООО "РЕТЕЙЛ ИННОВАЦИИ":RETAIL INNOVATIONS
+ПАО "Ростелеком":Rostelecom
+ОАО "РТКомм.РУ":RTComm.RU
+АО "ЭР-Телеком Холдинг":R-Telecom
+ЗАО "СанСим":SanSim
+ООО "Сбербанк-Телеком":Sberbank-Telecom
+АО "Севастополь Телеком":Sevastopol Telecom
+ООО "СевТелекомСвязь":SevTelecomSvyaz
+ООО "СИМ ТЕЛЕКОМ":SIM TELECOM
+ООО "СИНТОНИК":SINTONIK
+ООО "СкайНэт":SkyNet
+ООО "Скай Нетворкс":Sky Networks
+ООО "Смолтелеком":Smoltelecom
+ООО "Сонет":Sonet
+ООО "Спринт":Sprint
+ООО "Старт":Start
+ОАО "Сургутнефтегаз":Sutgutneftegaz
+ООО "СВЯЗЬРЕСУРС-МОБАЙЛ":SVYAZRESURS-MOBILE
+ПАО "Таттелеком":Tattelecom
+ООО "Т2 Мобайл":Tele2
+АО "Теле2-Санкт-Петербург":Tele2-SPb
+ООО "Тинькофф Мобайл":Tinkoff
+ООО "ТМТ":TMT
+ООО "ТрансМобилКом":TransMobilCom
+АО "Компания ТрансТелеКом":TransTeleCom
+ООО "Тривон Нетворкс":Trivon Networks
+ООО "ТРН-телеком":TRN-telecom
+ООО "ТВЕ-ТЕЛЕКОМ":TVE-TELECOM
+ОАО "Тывасвязьинформ":Tyvasvyazinform
+ООО "Юнисел":Unisel
+ЗАО "Вайнах Телеком":Vaynakh Telecom
+ООО "ВиКом":ViCom
+АО "Воентелеком":Voentelecom
+ООО "ВТБ Мобайл":VTB Mobile
+ООО "Скартел":YOTA
