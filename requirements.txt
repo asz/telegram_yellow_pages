@@ -1,2 +1,3 @@
 PyMySQL
 cryptography
+telethon
